@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="title" datatype="html">
+        <source>
+    Welcome to <x id="INTERPOLATION" equiv-text="{{ title }}"/>!
+  </source>
+          <target>
+    Welcome to <x id="INTERPOLATION" equiv-text="{{ title }}"/>!
+  </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="subTitle" datatype="html">
+        <source>Here are some links to help you start: </source>
+        <target>Here are some links to help you start: </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="tourOfHeroes" datatype="html">
+        <source>
+      Tour of Heroes</source>
+              <target>
+      Tour of Heroes</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cliDoc" datatype="html">
+        <source>
+      CLI Documentation</source>
+              <target>
+      CLI Documentation</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="angularBlog" datatype="html">
+        <source>
+      Angular blog</source>
+              <target>
+      Angular blog</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
