@@ -5,9 +5,9 @@ This is app shows how localization works in angular.
 
 ## Development server
 
-Run `ng serve --configuration=fr` for French
-Run `ng serve --configuration=es` for Spain
-Run `ng serve --configuration=en` for English
+Run `ng serve --configuration=fr` for French.
+Run `ng serve --configuration=es` for Spain.
+Run `ng serve --configuration=en` for English.
 
 Configurations for these command can find in angular.json file 
 
