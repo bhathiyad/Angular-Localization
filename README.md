@@ -1,5 +1,7 @@
 # AngularLocalization
 
+Simple steps you can follow to configure Localization for your angular app https://github.com/bhathiyad/Angular-Localization/wiki/Simple-steps-to-build-localization-enable-app-using-Angular
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 This is app shows how localization works in angular.
 
